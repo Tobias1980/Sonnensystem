@@ -1,0 +1,1 @@
+Dies ist noch ein TEstdatei im Projekt Sonnensystem . Bin gerade dabei Git und GITHub zu entdecken.
